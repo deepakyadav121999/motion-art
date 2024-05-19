@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
+
+.APP{
+    font-family: "Sora", sans-serif;
+  font-optical-sizing: auto;
+  overflow: hidden;
+  font-style: normal;
+}
+.enovo{
+  background-image: linear-gradient(180deg, #0D061F 0%, #251E35 100%);
+  
+  border: 0.1px solid rgb(77, 70, 70);
+}
+.crmo{
+  background-image: linear-gradient(180deg, #0D061F 0%, #251E35 100%);
+  border: 0.1px solid rgb(77, 70, 70);
+}
+.abc{
+  background-image: linear-gradient(180deg, #0D061F 0%, #251E35 100%);
+  border: 0.1px solid rgb(77, 70, 70);
+
+}
+
+@media screen and (min-width: 640px) {
+.enovo{
+  width: 47%;
+}
+}
+@media screen and (max-width: 743px) {
+  .cetrd{
+    justify-content: center;
+  }
+  }
+  @media screen and (min-width: 743px) {
+    .cetrd{
+      justify-content: space-between;
+    }
+    }
+    @media screen and (min-width: 640px) {
+     .abc{
+      width: 30%;
+     }
+      }

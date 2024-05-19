@@ -11,7 +11,7 @@ function App() {
 
 
   return (
-    <div className='flex flex-col gap-10 bg-gray-900'>
+    <div className='flex flex-col gap-10 bg-gray-900 APP'>
       <Header/>
       <Content/>
       <Content1/>
