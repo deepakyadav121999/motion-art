@@ -6,6 +6,9 @@
   overflow: hidden;
   font-style: normal;
 }
+.clrheader{
+  background-color: #262626;
+}
 .enovo{
   background-image: linear-gradient(180deg, #0D061F 0%, #251E35 100%);
   

@@ -15,7 +15,8 @@
     "react-animated-cursor": "^2.11.2",
     "react-dom": "^18.2.0",
     "regl": "^2.1.0",
-    "webgl-fluid": "0.3.2"
+    "webgl-fluid": "0.3.2",
+    "webgl-fluid-simulation": "^1.0.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.66",
